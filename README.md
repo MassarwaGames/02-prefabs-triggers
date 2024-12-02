@@ -1,6 +1,6 @@
 # 🚀 Expanded Features for Classic Spaceship Shooter Game
 ### link to itch.io game page
-[Itch.io Page]([https://blackeswadeh.itch.io/question2-game](https://blackeswadeh.itch.io/assigment3-spaceshipgame-expansion))
+[Itch.io Page](https://blackeswadeh.itch.io/assigment3-spaceshipgame-expansion)
 ---
 ## 🌟 About the Project
 This project builds upon a classic Unity spaceship shooter game by introducing **two unique and impactful features**:
