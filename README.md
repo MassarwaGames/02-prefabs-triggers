@@ -16,8 +16,8 @@ These features elevate the gameplay experience while preserving the essence of t
 ### 🎮 Cheat Code System
 - **What it Does**: Players can type a predefined key combination to activate a special weapon.
 - **How it Works**:
-  - Enter the cheat code `ABC` to switch to a special weapon with **enhanced capabilities**.
-  - Enter the code `XYZ` to revert to the default weapon.
+  - Enter the cheat code `special` to switch to a special weapon with **enhanced capabilities**.
+  - Enter the code `abab` to revert to the default weapon.
 - **Impact**:
   - The special weapon doubles the score for every successful hit.
   - Provides a nostalgic nod to classic cheat code systems.
