@@ -38,8 +38,8 @@ These features elevate the gameplay experience while preserving the essence of t
 
 ### 🚀 Activating the Cheat Code System
 1. Launch the game and start in the **Level1** scene.
-2. Press `ABC` to activate the special weapon.
-3. Revert to the default weapon by pressing `XYZ`.
+2. Press `special` to activate the special weapon.
+3. Revert to the default weapon by pressing `abab`.
 
 ### 🔄 Interacting with Bouncing Lasers
 1. Fire lasers toward any wall.
